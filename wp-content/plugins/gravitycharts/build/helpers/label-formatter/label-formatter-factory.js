@@ -1,1 +1,0 @@
-import percentageLabelFormatter from"./percentage-label-formatter.js";import textLabelFormatter from"./text-label-formatter.js";import valueLabelFormatter from"./value-label-formatter.js";const labelFormatterFactory=e=>"label"===e?textLabelFormatter:"percentage"===e?percentageLabelFormatter:"value"===e?valueLabelFormatter:null;export default labelFormatterFactory;

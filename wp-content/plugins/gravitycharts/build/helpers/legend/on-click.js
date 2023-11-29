@@ -1,1 +1,0 @@
-const legendOnClick=(t,e,a)=>{const i=a.chart,l=e.datasetIndex,d=i.config.type;if(i.data.datasets.length>1||-1===["pie","bar","polarArea"].indexOf(d))return i.toggleDataVisibility(l),void(i.isDatasetVisible(l)?i.hide(l):i.show(l));a.chart.toggleDataVisibility(l),a.chart.update()};export default legendOnClick;

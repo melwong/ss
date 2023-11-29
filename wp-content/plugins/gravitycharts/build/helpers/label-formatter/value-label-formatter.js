@@ -1,1 +1,0 @@
-const valueLabelFormatter=e=>{let l=e;return"object"==typeof e&&(l=e.value||e.label||null),l};export default valueLabelFormatter;

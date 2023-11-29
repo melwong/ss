@@ -1,1 +1,0 @@
-const percentageLabelFormatter=(e,t)=>{const a=e=>"object"==typeof e?e.value||0:e;return(a(e)/(t.dataset.data||[]).map(a).reduce(((e,t)=>e+t),0)*100).toFixed(2)+"%"};export default percentageLabelFormatter;
