@@ -1,0 +1,1 @@
+!function(){"use strict";var a;(a=jQuery)("body").on("gravityview_form_change",(function(){a('.gv-droppable-area .gv-fields[data-fieldid="gk-gravitycharts"]').remove()}))}();

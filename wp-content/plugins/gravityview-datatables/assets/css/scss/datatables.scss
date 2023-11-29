@@ -1,0 +1,64 @@
+// Include the DataTables source
+@import "../../datatables-src/css/jquery.dataTables.scss";
+
+.gv-datatables-container {
+
+
+	// nowrap used on the table when Responsive extension is enabled
+	table.nowrap {
+		table-layout: auto; // forces the cell content to set the column width (enables good responsive calculation)
+		width: 100% !important; // overrides the fixed width calculated by the responsive algorithm
+	}
+
+	.dataTables_filter,
+	.dataTables_length {
+		white-space: nowrap;
+		width: auto;
+	}
+
+	.dataTables_wrapper .dataTables_processing {
+		z-index: 100000 !important;
+		height: auto !important;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		line-height: 1.5em;
+		min-width: 300px;
+	}
+
+	// When Scroller is active, hide the page length selector
+	//div.DTS .dataTables_length{
+	//	display: none;
+	//}
+}
+
+.gv-table-view .gv-gallery .gv-field-file-uploads {
+	margin: 0;
+	padding: 0;
+}
+
+.gv-table-view .gv-gallery .gv-field-file-uploads li {
+	list-style: none;
+	display: inline-block;
+	max-width: 200px;
+	max-height: 200px;
+	margin-right: 1em;
+}
+
+.gv-table-view {
+	width: 100%;
+
+	th,
+	td {
+		padding: .3em;
+	}
+
+	th {
+		width: 35%;
+		vertical-align: top;
+	}
+
+}
+
+.DTTT_print_info {
+	z-index: 10;
+}

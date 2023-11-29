@@ -1,0 +1,396 @@
+# Copyright (C) 2022
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/woocommerce-gateway-metamask\n"
+"POT-Creation-Date: 2022-01-18 21:35:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: node-wp-i18n 1.2.3\n"
+
+#: includes\class-wc-gateway-metamask.php:118
+msgid "The unique ID number given to you when you signed up as merchant."
+msgstr ""
+
+#: includes\class-wc-gateway-metamask.php:124
+msgid "Your API key is under the API Settings page on site."
+msgstr ""
+
+#: includes\class-wc-gateway-metamask.php:131
+msgid "The cryptocurrency that you accept such as USDT, USDC, ETH, BTC."
+msgstr ""
+
+#: gateway-metamask.php:709
+msgid "MetaMask transaction completed on your site"
+msgstr ""
+
+#: gateway-metamask.php:50
+msgid "Settings"
+msgstr ""
+
+#: gateway-metamask.php:51
+msgid "Support"
+msgstr ""
+
+#: gateway-metamask.php:52
+msgid "Docs"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:12
+#: includes/class-wc-gateway-metamask.php:33
+#: includes/class-wc-gateway-metamask.php:116
+#: includes/class-wc-gateway-metamask.php:232
+msgid "MetaMask"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:14
+msgid "WooCommerce MetaMask Order Data"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:17
+msgid "WooCommerce MetaMask Subscriptions Data"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:20
+msgid "WooCommerce MetaMask Data"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:54
+msgid ""
+"Connect to your MetaMask wallet to perform cryptocurrency payment"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:77
+msgid "Orders"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:81
+msgid "MetaMask token"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:138
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:142
+msgid "MetaMask subscription token"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:223
+msgid "Order ID %d contains an active Subscription"
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:234
+msgid "MetaMask Subscriptions Data Erased."
+msgstr ""
+
+#: includes/class-wc-gateway-payfast-privacy.php:253
+msgid "MetaMask Order Data Erased."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:35
+#. translators: 1: a href link 2: closing href
+msgid ""
+"This payment plugin works by calling your customer MetaMask wallet to pay for purchases."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:105
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:106
+msgid "Enable MetaMask"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:108
+msgid "This controls whether or not this gateway is enabled within WooCommerce."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:113
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:115
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:120
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:122
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:127
+msgid "MetaMask Sandbox"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:129
+msgid "Place the payment gateway in development mode."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:133
+msgid "Merchant ID"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:135
+msgid "This is the merchant ID, received from MetaMask."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:139
+msgid "Merchant Key"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:141
+msgid "This is the merchant key, received from MetaMask."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:145
+msgid "Passphrase"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:147
+msgid "* Required. Needed to ensure the data passed through is secure."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:151
+msgid "Send Debug Emails"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:153
+msgid ""
+"Send debug e-mails for transactions through the MetaMask gateway (sends on "
+"successful transaction as well)."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:157
+msgid "Who Receives Debug E-mails?"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:159
+msgid ""
+"The e-mail address to which debugging error e-mails are sent when in test "
+"mode."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:163
+msgid "Enable Logging"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:165
+msgid "Enable transaction logging for gateway."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:178
+msgid "Sandbox Merchant ID currently in use"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:179
+msgid "Sandbox Merchant Key currently in use"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:181
+msgid "No Supported Cryptocurrency"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:233
+#. translators: 1: a href link 2: closing href
+msgid ""
+"Include a supported cryptocurrency on your WooCommerce site, such as USDT, USDC, ETH, BTC."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:264
+#. translators: 1: blog info name
+msgid "New order from %s"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:316
+msgid "Pay via MetaMask"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:316
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:321
+msgid ""
+"Thank you for your order. We are now redirecting you to MetaMask to make "
+"payment."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:370
+msgid "Thank you for your order, please click the button below to pay with MetaMask."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:624
+msgid "Merchant cancelled subscription on MetaMask."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:640
+msgid "MetaMask payment completed"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:671
+#. translators: 1: gross amount 2: payment id
+msgid "MetaMask pre-order fee paid: R %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:679
+#. translators: 1: gross amount 2: payment id
+msgid "MetaMask pre-order product line total paid: R %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:712
+#: includes/class-wc-gateway-metamask.php:741
+#. translators: 1: payment status
+msgid "Payment %s via MetaMask."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:915
+#. translators: 1: error code 2: error message
+msgid "MetaMask Subscription renewal transaction failed (%1$s:%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:918
+msgid "MetaMask Subscription renewal transaction submitted."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1005
+msgid "Can not submit MetaMask request with an empty token"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1142
+#. translators: 1: error code 2: error message
+msgid "MetaMask Pre-Order payment transaction failed (%1$s:%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1185
+msgid "Amount mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1186
+msgid "Bad access of page"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1187
+msgid "Bad source IP address"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1188
+msgid "Failed to connect to MetaMask"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1189
+msgid "Security signature mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1190
+msgid "Merchant ID mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1191
+msgid "No saved session found for ITN transaction"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1192
+msgid "Order ID not present in URL"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1193
+msgid "Order ID mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1194
+msgid "This order ID is invalid"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1195
+msgid "Order Number mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1196
+msgid "This order has already been processed"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1197
+msgid "PDT query failed"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1198
+msgid "PDT token not present in URL"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1199
+msgid "Session ID mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1200
+msgid "Unkown error occurred"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1203
+msgid "Payment was successful"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1204
+msgid "Payment has failed"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1205
+msgid ""
+"The payment is pending. Please note, you will receive another Instant "
+"Transaction Notification when the payment status changes to \"Completed\", "
+"or \"Failed\""
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:761
+msgid "Fill in your cryptocurrency symbol."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1372
+msgid "Your site uses the currency %s that is not supported."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1374
+msgid "Fill in your merchant ID."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1376
+msgid "Fill in your merchant key."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1378
+msgid "API key is required to work."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1407
+msgid "Please fix the problems below:"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1434
+msgid "This represents the fee MetaMask collects for the transaction."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1435
+msgid "MetaMask Fee:"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1464
+msgid "This represents the net total that was credited to your MetaMask account."
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:1465
+msgid "Amount Net:"
+msgstr ""
+
+#: includes/class-wc-gateway-metamask.php:260
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""

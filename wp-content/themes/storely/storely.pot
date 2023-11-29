@@ -1,0 +1,750 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Storely\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-14 02:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: storely"
+
+#. %s Comment number
+#: inc/extras.php:65
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ""
+
+#: inc/extras.php:138 inc/extras.php:435
+msgid "0"
+msgstr ""
+
+#: inc/extras.php:62
+msgid "0 Comments"
+msgstr ""
+
+#: inc/extras.php:185 inc/extras.php:188
+msgid "1"
+msgstr ""
+
+#: footer.php:44
+msgid ""
+"<a href=\"https://sellerthemes.com/storely/\" target=\"_blank\">Storely</a>"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:19
+msgid "Activate"
+msgstr ""
+
+#: inc/customizer/customizer-notify.php:114
+msgid "Activating"
+msgstr ""
+
+#: template-parts/sections/section-browse.php:12
+msgid "active"
+msgstr ""
+
+#: inc/class-wp-bootstrap-navwalker.php:367
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:873
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:906
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Add new field"
+msgstr ""
+
+#: inc/extras.php:207
+msgid "Archive by category"
+msgstr ""
+
+#: inc/extras.php:321
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-pro.php:27
+msgid "Ask for Support"
+msgstr ""
+
+#: inc/template-tags.php:212
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: 404.php:21
+msgid "Back to Home"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:155
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:85
+#: inc/customizer/customizer-options/storely-general.php:192
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:67
+#: inc/customizer/customizer-options/storely-general.php:173
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:18
+msgid "Below Footer"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:15
+msgid "Blog Section"
+msgstr ""
+
+#: inc/extras.php:478 inc/extras.php:537
+msgid "Browse Categories"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:141
+msgid "Browse Category"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:122
+msgid "Browse Section"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:396
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:605
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:613
+msgid "Button Label Second"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Button Label second"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:420
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:92
+msgid "Cart"
+msgstr ""
+
+#: inc/template-tags.php:200
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:827
+msgid "Center"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:104 woocommerce/cart/mini-cart.php:205
+msgid "Checkout"
+msgstr ""
+
+#: inc/extras.php:450
+msgid "CLOSE"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:542
+msgid "Color"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:118
+#: inc/customizer/customizer-options/storely-general.php:105
+msgid "Content"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content/content.php:32
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:39
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:25
+msgid ""
+"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:46
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/template-tags.php:188
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:509
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:686
+msgid "Delete field"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:389
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:493
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Designation"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:70
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:208
+msgid "Error 404"
+msgstr ""
+
+#: inc/extras.php:325
+msgid "Error 404 "
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:92
+#: inc/customizer/customizer-options/storely-general.php:199
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:10
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:49
+msgid "Footer Background"
+msgstr ""
+
+#: inc/extras.php:100 inc/extras.php:102
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:7
+msgid "Frontpage Sections"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Page"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:7
+msgid "General"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-pro.php:7
+msgid "Get More Features in Storely Pro"
+msgstr ""
+
+#: inc/getting-start.php:42
+msgid "Get started with Storely"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-pro.php:29
+msgid "Give us Rating"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:77
+#: inc/customizer/customizer-options/storely-header.php:12
+msgid "Header"
+msgstr ""
+
+#: template-parts/sections/section-header.php:68
+msgid "Header Above Collapse"
+msgstr ""
+
+#: template-parts/sections/section-header.php:60
+msgid "Header Close Menu"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:34
+msgid "Header Navigation"
+msgstr ""
+
+#: inc/extras.php:80
+msgid "Header Widget Area"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:56
+#: inc/customizer/customizer-options/storely-general.php:84
+msgid "Hide / Show"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:34
+msgid "Hide / Show Scroller"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:138
+msgid "Hide / Show Tab"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:71
+#: inc/customizer/customizer-options/storely-header.php:109
+#: inc/customizer/customizer-options/storely-header.php:160
+#: inc/customizer/customizer-options/storely-header.php:220
+#: inc/customizer/customizer-options/storely-header.php:271
+msgid "Hide/Show"
+msgstr ""
+
+#: inc/extras.php:187
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:740
+msgid "http://fontawesome.io/icons/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sellerthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://sellerthemes.com/storely-free/"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:734
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:841
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:775
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:842
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:838
+msgid "Image type"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:90
+#: inc/customizer/customizer-options/storely-general.php:197
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/getting-start.php:40
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:12
+msgid ""
+"Install and activate <strong>eCommerce Companion</strong> plugin for taking "
+"full advantage of all the features this theme has to offer."
+msgstr ""
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:8
+msgid ""
+"Install and activate <strong>WooCommerce</strong> plugin for taking full "
+"advantage of all the features this theme has to offer."
+msgstr ""
+
+#: template-parts/content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:63
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:819
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:431
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:638
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:865
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:887
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:621
+msgid "link"
+msgstr ""
+
+#: inc/extras.php:533
+msgid "Menu"
+msgstr ""
+
+#: template-parts/sections/section-header.php:51
+msgid "Menu Collaped"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:127
+msgid "Min Height"
+msgstr ""
+
+#: inc/template-tags.php:192
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:54
+msgid "My Account"
+msgstr ""
+
+#: comments.php:48 comments.php:68
+msgid "Newer Comments"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:111 woocommerce/cart/mini-cart.php:212
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:157
+msgid "No. of Blog Display"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:843
+msgid "None"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:739
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: comments.php:47 comments.php:67
+msgid "Older Comments"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops You are Lost"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:218
+msgid "Opacity"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:109
+msgid "opacity"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:723
+msgid "Open link in new tab:"
+msgstr ""
+
+#: inc/extras.php:330
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:45
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:50
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/extras.php:315
+msgid "Posts tagged "
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-pro.php:23
+msgid "Pro Demo"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:201
+msgid "Product Search"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-pro.php:25
+msgid "Purchase Now"
+msgstr ""
+
+#: template-parts/content/content-page.php:54
+#: template-parts/content/content-search.php:50
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr ""
+
+#. %s is the product name
+#: woocommerce/cart/mini-cart.php:53
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:868
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:898
+msgid "Remove Icon"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:154
+msgid "Remove this item"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:823
+msgid "Right"
+msgstr ""
+
+#: woocommerce/content-product.php:46
+msgid "Sale"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-footer.php:91
+#: inc/customizer/customizer-options/storely-general.php:198
+msgid "Scroll"
+msgstr ""
+
+#: footer.php:60
+msgid "scrollingUp"
+msgstr ""
+
+#: inc/extras.php:594
+msgid "Search Products Here"
+msgstr ""
+
+#: inc/extras.php:213
+msgid "Search results for "
+msgstr ""
+
+#: inc/extras.php:596
+msgid "Select Category"
+msgstr ""
+
+#: functions.php:972
+msgid "Sell"
+msgstr ""
+
+#. Author of the theme
+msgid "Seller Themes"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:36
+#: inc/customizer/customizer-options/storely-general.php:65
+msgid "Settings"
+msgstr ""
+
+#: inc/extras.php:449
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:485
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Shortcode"
+msgstr ""
+
+#: inc/extras.php:89
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:22
+msgid "Site Identity"
+msgstr ""
+
+#: header.php:17
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:815
+msgid "Slide Align"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:804
+msgid "Slider Image"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:851
+msgid "Social icons"
+msgstr ""
+
+#: template-parts/content/content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-header.php:235
+#: inc/customizer/customizer-options/storely-header.php:254
+msgid "Sticky Header"
+msgstr ""
+
+#. Name of the theme
+msgid "Storely"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Storely is a WooCommerce multipurpose WordPress theme designed for shopping "
+"online stores. Storely is suitable for eCommerce websites such as fashion, "
+"suit, sneaker, shoes, glasses, accessories, supermarket … or anything you "
+"want. The theme is built with lots of cool features and fully eCommerce "
+"functionalities in Pro version. Visit Storely pro demo. https://preview."
+"sellerthemes.com/pro/storely"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:349
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:558
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:357
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Subtitle 2"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Subtitle 3"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:373
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Subtitle 4"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Subtitle 5"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:199
+msgid "Subtotal"
+msgstr ""
+
+#: inc/template-tags.php:204
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:56
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/extras.php:91
+msgid "The Primary Widget Area"
+msgstr ""
+
+#: inc/getting-start.php:29
+msgid "Theme Screenshot"
+msgstr ""
+
+#: inc/extras.php:112
+msgid "This Widget area for WooCommerce Widget"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-blog.php:96
+#: inc/customizer/customizer-options/storely-header.php:180
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:341
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:550
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer-options/storely-general.php:15
+msgid "Top Scroller"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:778
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:807
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:445
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Video Url"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:103 woocommerce/cart/mini-cart.php:204
+msgid "View Cart"
+msgstr ""
+
+#. 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: inc/getting-start.php:36
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr ""
+
+#: inc/extras.php:110
+msgid "WooCommerce Widget Area"
+msgstr ""
+
+#: inc/template-tags.php:196
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""

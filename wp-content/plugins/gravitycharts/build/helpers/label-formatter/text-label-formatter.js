@@ -1,0 +1,1 @@
+const textLabelFormatter=(t,e)=>"object"==typeof t?t.label:e.chart.data.labels[e.dataIndex];export default textLabelFormatter;

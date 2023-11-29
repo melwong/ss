@@ -1,0 +1,526 @@
+# Copyright (C) 2023 Lynn (lynn.mvp at tutanota dot com), ethereumicoio
+# This file is distributed under the same license as the EthPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EthPress 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ethpress\n"
+"POT-Creation-Date: 2023-08-25 06:23:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: app/Address.php:120
+msgid "Bad address."
+msgstr ""
+
+#: app/Address.php:189
+msgid "No user for this address exists."
+msgstr ""
+
+#: app/Address.php:326 app/Address.php:333
+msgid "No matching address."
+msgstr ""
+
+#: app/Address.php:357
+msgid "You have not registered on this site; we cannot log you in"
+msgstr ""
+
+#: app/Address.php:386
+msgid "Empty username."
+msgstr ""
+
+#: app/Address.php:391
+msgid "Username already exists."
+msgstr ""
+
+#: app/Address.php:400
+msgid "Error during creation"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "EthPress"
+msgstr ""
+
+#: app/Admin/Options.php:65
+msgid "Standard"
+msgstr ""
+
+#: app/Admin/Options.php:117
+msgid "Settings saved."
+msgstr ""
+
+#: app/Admin/Options.php:133
+msgid "EthPress Options Page"
+msgstr ""
+
+#: app/Admin/Options.php:134
+msgid "The MetaMask login plugin."
+msgstr ""
+
+#: app/Admin/Options.php:141
+msgid "Opens in new tab"
+msgstr ""
+
+#: app/Admin/Options.php:141
+msgid "Developer's wallet, etherscan.io"
+msgstr ""
+
+#: app/Admin/Options.php:141
+msgid "Donate to support development!"
+msgstr ""
+
+#: app/Admin/Options.php:141
+msgid "For fiat, find the charity link on wp plugin directory."
+msgstr ""
+
+#: app/Admin/Options.php:147 app/Admin/Options.php:241
+msgid ""
+"If you like <strong>EthPress</strong> please leave us a %1$s rating. A huge "
+"thanks in advance!"
+msgstr ""
+
+#: app/Admin/Options.php:154
+msgid "Awesome Premium Features"
+msgstr ""
+
+#: app/Admin/Options.php:155
+msgid "Managed Verification Service and more."
+msgstr ""
+
+#: app/Admin/Options.php:157
+msgid "Upgrade Now!"
+msgstr ""
+
+#: app/Admin/Options.php:232
+msgid "Save Changes"
+msgstr ""
+
+#: app/Admin/Options.php:233
+msgid "Are you sure you want to delete all EthPress options?"
+msgstr ""
+
+#: app/Admin/Options.php:233
+msgid "Reset"
+msgstr ""
+
+#: app/Admin/Options.php:268
+msgid "Main Settings"
+msgstr ""
+
+#: app/Admin/Options.php:288
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: app/Admin/Options.php:309
+msgid "WalletConnect Settings"
+msgstr ""
+
+#: app/Admin/Options.php:327 app/Admin/Options.php:331
+#: app/Admin/Options.php:335 app/Plugin.php:147
+msgid "WalletConnect Project ID"
+msgstr ""
+
+#: app/Admin/Options.php:334
+msgid ""
+"The %1$s should be set there. You can get it from "
+"%2$sWalletConnect.com%3$s. Follow this %4$svideo guide%3$s if unsure."
+msgstr ""
+
+#: app/Admin/Options.php:359
+msgid "Web3 Login Form"
+msgstr ""
+
+#: app/Admin/Options.php:378
+msgid "Theme Mode"
+msgstr ""
+
+#: app/Admin/Options.php:383
+msgid "Dark Mode"
+msgstr ""
+
+#: app/Admin/Options.php:385
+msgid "Light Mode"
+msgstr ""
+
+#: app/Admin/Options.php:404
+msgid "Strings Settings"
+msgstr ""
+
+#: app/Admin/Options.php:420 app/Front.php:79 app/Plugin.php:403
+msgid "Log In With a Crypto Wallet"
+msgstr ""
+
+#: app/Admin/Options.php:427
+msgid "Login button label"
+msgstr ""
+
+#: app/Admin/Options.php:433
+msgid "The Login button text can be set there."
+msgstr ""
+
+#: app/Admin/Options.php:437 app/Admin/Options.php:476
+#: app/Admin/Options.php:515 app/Admin/Options.php:549
+#: app/Admin/Options.php:669 app/Admin/Options.php:728
+#: app/Admin/Options.php:789 app/Admin/Options.php:852
+#: app/Admin/Options.php:921 app/Admin/Options.php:989
+msgid "Upgrade to keep using this feature!"
+msgstr ""
+
+#: app/Admin/Options.php:441 app/Admin/Options.php:480
+#: app/Admin/Options.php:519 app/Admin/Options.php:553
+#: app/Admin/Options.php:673 app/Admin/Options.php:732
+#: app/Admin/Options.php:793 app/Admin/Options.php:856
+#: app/Admin/Options.php:925 app/Admin/Options.php:993
+msgid "Upgrade to use this feature!"
+msgstr ""
+
+#: app/Admin/Options.php:459 app/Front.php:133 app/Plugin.php:404
+msgid "Link Your Crypto Wallets"
+msgstr ""
+
+#: app/Admin/Options.php:466
+msgid "Link button label"
+msgstr ""
+
+#: app/Admin/Options.php:472
+msgid "The Link button text can be set there."
+msgstr ""
+
+#: app/Admin/Options.php:498 app/Front.php:207 app/Plugin.php:405
+msgid "Register With a Crypto Wallet"
+msgstr ""
+
+#: app/Admin/Options.php:505
+msgid "Register button label"
+msgstr ""
+
+#: app/Admin/Options.php:511
+msgid "The Register button text can be set there."
+msgstr ""
+
+#: app/Admin/Options.php:532 app/Linker.php:94
+#. translators: wallet address
+msgid "Success! Address %s is now linked to your account."
+msgstr ""
+
+#: app/Admin/Options.php:539
+msgid "The account link success message"
+msgstr ""
+
+#: app/Admin/Options.php:545
+msgid ""
+"The successful account link message. The %s can be used to insert the "
+"account address linked."
+msgstr ""
+
+#: app/Admin/Options.php:579
+msgid "Verification Service API URL"
+msgstr ""
+
+#: app/Admin/Options.php:585 app/Admin/Options.php:710
+msgid ""
+"Your PHP installation has the necessary PHP extension to do verifications "
+"on your server, so there is nothing to configure."
+msgstr ""
+
+#: app/Admin/Options.php:596
+msgid ""
+"Use an API or install %1$sPHP-GMP%2$s or %3$sPHP-BCMath%2$s to verify "
+"Ethereum signatures."
+msgstr ""
+
+#: app/Admin/Options.php:616
+#. translators: a link.
+msgid "To deploy your own verification service, see %1$s."
+msgstr ""
+
+#: app/Admin/Options.php:656
+msgid "Redirect URL"
+msgstr ""
+
+#: app/Admin/Options.php:662
+msgid "The page to redirect after a successful login"
+msgstr ""
+
+#: app/Admin/Options.php:704
+msgid "Managed Verification Service"
+msgstr ""
+
+#: app/Admin/Options.php:718
+msgid "Use Managed Verification Service"
+msgstr ""
+
+#: app/Admin/Options.php:721
+msgid "Check to use the Managed Verification Service."
+msgstr ""
+
+#: app/Admin/Options.php:774
+msgid "WooCommerce Login Form"
+msgstr ""
+
+#: app/Admin/Options.php:779
+msgid "Show on WooCommerce Login Form?"
+msgstr ""
+
+#: app/Admin/Options.php:782
+msgid "Check to show EthPress login button on the WooCommerce Login Form."
+msgstr ""
+
+#: app/Admin/Options.php:798 app/Admin/Options.php:862
+#: app/Admin/Options.php:930 app/Admin/Options.php:998
+msgid "Install WooCommerce to use this feature!"
+msgstr ""
+
+#: app/Admin/Options.php:798 app/Admin/Options.php:862
+#: app/Admin/Options.php:930 app/Admin/Options.php:998
+msgid ""
+"WooCommerce is a customizable, open-source eCommerce platform built on "
+"WordPress."
+msgstr ""
+
+#: app/Admin/Options.php:837
+msgid "WooCommerce Register Form"
+msgstr ""
+
+#: app/Admin/Options.php:842
+msgid "Show on WooCommerce Register Form?"
+msgstr ""
+
+#: app/Admin/Options.php:845
+msgid "Check to show EthPress register button on the WooCommerce Register Form."
+msgstr ""
+
+#: app/Admin/Options.php:867 app/Admin/Options.php:935
+msgid ""
+"Check the Administration > Settings > General > Membership: Anyone can "
+"register box to use this feature."
+msgstr ""
+
+#: app/Admin/Options.php:906
+msgid "WooCommerce Checkout Page Register Form"
+msgstr ""
+
+#: app/Admin/Options.php:911
+msgid "Show on the WooCommerce Checkout page?"
+msgstr ""
+
+#: app/Admin/Options.php:914
+msgid "Check to show EthPress register button on the WooCommerce Checkout page."
+msgstr ""
+
+#: app/Admin/Options.php:974
+msgid "WooCommerce Account Details Link Wallet Form"
+msgstr ""
+
+#: app/Admin/Options.php:979
+msgid "Show the Link Wallet button on the WooCommerce Account Details page?"
+msgstr ""
+
+#: app/Admin/Options.php:982
+msgid "Check to the Link Wallet button on the WooCommerce Account Details page."
+msgstr ""
+
+#: app/Admin/Options.php:1081
+msgid "Settings"
+msgstr ""
+
+#: app/Front.php:31 app/Front.php:159
+msgid "Enable JavaScript to log in with a crypto wallet."
+msgstr ""
+
+#: app/Linker.php:62
+#. translators: wallet address
+msgid "Address %1$s... is already linked to an account. Doing nothing."
+msgstr ""
+
+#: app/Linker.php:130
+msgid "Signature mismatch. Try again."
+msgstr ""
+
+#: app/Linker.php:133
+msgid "Invalid request."
+msgstr ""
+
+#: app/Linker.php:148
+msgid "Associate a wallet with your account"
+msgstr ""
+
+#: app/Linker.php:150
+msgid ""
+"Account and address have been linked successfully. You may close this "
+"dialog."
+msgstr ""
+
+#: app/Linker.php:151
+msgid "Aborted"
+msgstr ""
+
+#: app/Linker.php:152
+msgid "Link a Wallet"
+msgstr ""
+
+#: app/Linker.php:153
+msgid "Fetching verification phrase..."
+msgstr ""
+
+#: app/Linker.php:182
+msgid "Linking your account to your crypto wallet."
+msgstr ""
+
+#: app/Login.php:39
+msgid "Invalid input"
+msgstr ""
+
+#: app/Login.php:91 app/Plugin.php:292
+msgid "Logged in"
+msgstr ""
+
+#: app/Login.php:101
+msgid "Signature err, try again."
+msgstr ""
+
+#: app/Login.php:172
+#. translators: blog name.
+msgid "Log in to %1$s"
+msgstr ""
+
+#: app/Login.php:207
+msgid "Bad nonce, please refresh."
+msgstr ""
+
+#: app/Login.php:214
+msgid "No address specified."
+msgstr ""
+
+#: app/Plugin.php:144
+msgid ""
+"%1$sImportant:%2$s %3$s must be set in the EthPress plugin "
+"%6$ssettings%5$s. You can get it from %4$sWalletConnect.com%5$s"
+msgstr ""
+
+#: app/Plugin.php:286
+msgid "Choose your login method"
+msgstr ""
+
+#: app/Plugin.php:287
+msgid "Error: cannot detect crypto wallet"
+msgstr ""
+
+#: app/Plugin.php:288
+msgid "Waiting for your permission"
+msgstr ""
+
+#: app/Plugin.php:289
+msgid "Fetching login phrase..."
+msgstr ""
+
+#: app/Plugin.php:290
+msgid "Waiting for your signature"
+msgstr ""
+
+#: app/Plugin.php:291
+msgid "Verifying signature..."
+msgstr ""
+
+#: app/Plugin.php:293
+msgid "Login aborted"
+msgstr ""
+
+#: app/Plugin.php:294
+msgid "Log In"
+msgstr ""
+
+#: app/Plugin.php:295
+msgid "Scan a QR code with your wallet, https://walletconnect.org"
+msgstr ""
+
+#: app/Plugin.php:296
+msgid "Browser add-on and mobile app, https://metamask.io"
+msgstr ""
+
+#: app/Plugin.php:349
+msgid "Log out first"
+msgstr ""
+
+#: app/UM.php:57 app/UM.php:60
+msgid "EthPress Button"
+msgstr ""
+
+#: app/UM.php:280
+msgid "Show EthPress button?"
+msgstr ""
+
+#: app/UM.php:280
+msgid "Check to show the EthPress button"
+msgstr ""
+
+#: app/UM.php:292
+msgid "The EthPess button label"
+msgstr ""
+
+#: app/UM.php:292
+msgid "The button label text"
+msgstr ""
+
+#: app/UM.php:303
+msgid "Blockchain Address"
+msgstr ""
+
+#: app/UM.php:311
+msgid "Title is required"
+msgstr ""
+
+#: app/Widgets/Button.php:34
+msgid "EthPress Widget"
+msgstr ""
+
+#: app/Widgets/Button.php:84
+msgid "Title:"
+msgstr ""
+
+#: app/Widgets/Button.php:149
+msgid "Crypto Wallet"
+msgstr ""
+
+#: app/Widgets/Button.php:150
+msgid "After linking a crypto wallet to your account, you can use it to log in."
+msgstr ""
+
+#: ethpress.php:98
+#. translators: version numbers.
+msgid ""
+"“%1$s” requires PHP %2$s (or newer) and WordPress %3$s (or newer) to "
+"function properly. Your site is using PHP %4$s and WordPress %5$s. Please "
+"upgrade. The plugin has been automatically deactivated."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/ethpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ethereum Web3 login. Enable crypto wallet logins to WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lynn (lynn.mvp at tutanota dot com), ethereumicoio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ethereumico.io"
+msgstr ""

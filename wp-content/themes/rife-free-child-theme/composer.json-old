@@ -1,0 +1,9 @@
+{
+    "minimum-stability": "dev",
+	"require": {
+        "sc0vu/web3.php": "dev-master",
+        "web3p/ethereum-tx": "dev-master",
+        "vlucas/phpdotenv": "dev-master",
+		"php": "^7.1 || >=8.0",
+    }
+}

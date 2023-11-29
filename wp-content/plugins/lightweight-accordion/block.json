@@ -1,0 +1,11 @@
+{
+	"name": "lightweight-accordion/lightweight-accordion",
+	"title": "Lightweight Accordion",
+	"category": "widgets",
+	"icon": "editor-ul",
+	"description": "Simple lightweight accordion collapsible block.",
+	"keywords": [ "accordion", "collapsible", "toggle" ],
+	"textdomain": "lightweight-accordion",
+	"editorScript": "file:./block/index.js",
+	"style": "file:./editor-styles.css"
+}
